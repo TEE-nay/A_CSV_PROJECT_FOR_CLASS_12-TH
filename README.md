@@ -1,5 +1,23 @@
 PLEASE READ ME BEFORE USE ! I AM HERE TO HELP !
 
+
+To clone the file
+
+1----------
+
+click on the "CODE" button
+
+Savr the file. 
+
+2--------
+
+You can use "git clone' commanand if you are a linux user.
+
+There are no eternal dependencies, internal may be required,
+that include the missing modules in your system.
+
+
+
      ++++++++++++++++++++++++++++++++++++++++++
      THIS IS A PROJECT MADE BY TANAY NAGESH
      A STUDENT [ WHILE WORKING ON IT ] HIMSELF
